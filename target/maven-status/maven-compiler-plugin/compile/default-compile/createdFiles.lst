@@ -1,0 +1,12 @@
+course\app\LoginServlet.class
+course\model\CoursePrerequisite.class
+course\app\RegisterServlet.class
+course\app\DropServlet.class
+course\app\ConfirmServlet.class
+course\model\CourseGroup.class
+course\model\Student.class
+course\app\CompleteServlet.class
+course\model\Course.class
+course\model\StudentCompletedCourse.class
+course\view\DisplayCourse.class
+course\model\StudentRegisteredCourse.class
