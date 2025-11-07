@@ -1,4 +1,8 @@
-# 推薦機能付き履修管理システム / learning project
+#learning project
+
+---
+
+# 推薦機能付き履修管理システム
 
 学習用 
 
